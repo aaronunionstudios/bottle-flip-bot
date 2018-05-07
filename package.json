@@ -1,7 +1,7 @@
 {
-  "name": "magic-bot",
+  "name": "bottle-flip-bot",
   "version": "1.0.0",
-  "description": "Magic Eight Ball Bot",
+  "description": "Flip the bottle and see how it lands",
   "main": "bot.js",
   "author": "AW",
   "dependencies": {
