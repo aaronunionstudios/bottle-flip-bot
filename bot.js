@@ -28,7 +28,7 @@ client.on("message", (message) => {
         })
     } else if(number >= 7 && number <= 11) {
         message.channel.send('**'+messaageAuthor+':** Oh wow, your trying too hard.', {
-            files: ["./images/bottle-broke-100-2.png"]
+            files: ["./images/bottle-broke-100.png"]
         })
     } else if(number >= 12 && number <= 17) {
         message.channel.send('**'+messaageAuthor+':** Not even close.', {
